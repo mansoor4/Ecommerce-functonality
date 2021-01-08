@@ -1,0 +1,5 @@
+15=LG television=best television=12345=electronics
+16=refrigerartor=keep fruit and other stuff fresh=50000=electronics
+17=chair=comfortable=38999=electronics
+19=oven=can amke tasty food=50000=electronics
+42=rolex gold=gold=31000=electronics
